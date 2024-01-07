@@ -27,8 +27,4 @@ This Python project implements a content-based movie recommendation system using
 2. Navigate to the project directory:
    ```bash
    cd Movie-Recommendation-System
-   
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
 
